@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+transformers
+ultralytics
+opencv-python
+pillow
+sentencepiece
+protobuf
+tqdm
+numpy

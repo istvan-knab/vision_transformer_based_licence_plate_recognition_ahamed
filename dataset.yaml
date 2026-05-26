@@ -1,0 +1,8 @@
+path: C:/Users/Ердаулет/Desktop/traffic modeling/dataset_yolo
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: license-plates
+  1: License_Plate
